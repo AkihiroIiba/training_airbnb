@@ -1,5 +1,5 @@
 # training_airbnb
-・模写元（https://www.airbnb.jp/host/homes）
+・模写元 https://www.airbnb.jp/host/homes
 
 ## 使用言語
 HTML/SCC/Javascript
